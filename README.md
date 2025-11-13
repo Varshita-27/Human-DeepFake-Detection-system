@@ -57,8 +57,6 @@ python predict.py
 ```
 
 ---
-You can download the Real/Fake face datasets from any available open-source sources such as Kaggle or public research datasets.
-
 ## ⚙️ How This Project Works
 
 1. **Training Phase**
@@ -83,4 +81,5 @@ You can download the Real/Fake face datasets from any available open-source sour
      - Color highlight (Green = Real, Red = Fake)
 
 ## 📌 Note
-This project is for **image-based deepfake detection only** (not video).
+You can download the Real/Fake face datasets from any available open-source sources such as Kaggle or public research datasets.
+
